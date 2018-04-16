@@ -1,5 +1,6 @@
 ```
-line-height:1.5```
+line-height:1.5
+```
 设置样式为1.5倍的行高 假如font-size:12px 那么line-height就是12*1.5＝18px。
 
 ```
